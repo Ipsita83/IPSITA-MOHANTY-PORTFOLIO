@@ -17,5 +17,5 @@ To use the portfolio:
 1. Open the `index.html` file in your web browser.
 2. Navigate through the different sections to view projects, skills, and experience.
 3. Use the contact form to send a message to the portfolio owner.
-[web site link calculator](https://ipsita-mohanty-portfolio.vercel.app/)
+[web site link of my portfolio website](https://ipsita-mohanty-portfolio.vercel.app/)
 
